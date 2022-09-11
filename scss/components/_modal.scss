@@ -87,7 +87,7 @@
 	border-radius: 4px;
 	outline: transparent;
 	transition: border-color $time-cubic;
-	color: $active-color;
+	color: black;
 
 	&:focus-within, &:hover {
 		border-color: $active-color;
