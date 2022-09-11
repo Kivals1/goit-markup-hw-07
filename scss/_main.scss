@@ -1,8 +1,12 @@
+// Utils
 @import "./utils/variables";
-// @import "./base/modern-normalize";
+
+// Base
 @import "./base/reset";
 @import "./base/wrappers";
 @import "./base/lists-titles";
+
+// Components
 @import "./components/logo";
 @import "./components/page-header";
 @import "./components/solutions";
